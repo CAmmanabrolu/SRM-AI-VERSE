@@ -20,3 +20,11 @@ To set up the project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/CAmmanabrolu/SRMIST-AI-VERSE.git
+## Acknowledgments
+
+- SRM Institute of Science and Technology
+- All our contributors and maintainers
+- The open-source community
+
+
+## Made with ❤️ by the SRMIST AI Verse Team

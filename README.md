@@ -8,7 +8,7 @@ The SRMIST AI Verse is an informational website designed to provide updates on e
 
 ## Features
 
-- **Campus Information**: Detailed information about various locations within the SRMIST campus, including an interactive map for easy navigation.
+- **Campus Information**: Detailed information about various locations within the SRMIST campus, including an interactive map for easy navigation and smooth experience.
 - **Events**: Up-to-date information on upcoming events and activities at SRMIST, with details on dates, times, locations, and descriptions. Users can also register for events directly through the platform.
 - **Hostel Details**: Comprehensive information about hostel facilities, including accommodation details, daily menus, and available amenities.
 - **AI Chatbot**: An AI-powered chatbot to assist users with any queries related to the campus, events, hostel, and more.
